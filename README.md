@@ -1,2 +1,2 @@
 # aula-git-ebac
-clonandp repositório
+clonando repositório
