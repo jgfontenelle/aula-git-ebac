@@ -1,0 +1,15 @@
+Modificando o arquivo após o git clone 
+
+
+Dados do aluno
+
+-Primeiro Nome: Jeovana Fontenelle
+-Profissão: Estagiária de TI
+-Cidade: Manaus
+-O que faz nas horas vaga: Faço atividade fisica e estudo
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante e apredendo bastante sobre a área que desejo atuar
+-Feedback sobre a plataforma de estudo da EBAC: Gosto muito da rapidez que eu recebo o feedback das ativades
+
+Obrigado!!!
+
+
